@@ -55,12 +55,12 @@ I set up two VM's through VirtualBox, isolated them from external internet acces
 
 ## Resources:
 
-- (Where the Idea Came From)[https://networkjourney.com/build-your-own-network-lab-a-step-by-step-guide/]
-- (Private IP Address Ranges)[https://ipcisco.com/lesson/private-ip-address-ranges/]
-- (A Refresher on Private IP Addresses)[https://www.geeksforgeeks.org/private-ip-addresses-in-networking/]
-- (Subnetting Refrehser)[https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/]
-- (Ubuntu Network Configuration Issue)[https://askubuntu.com/questions/1188147/installation-of-server-does-not-accept-subnet-cidr]
-- (Modifying Windows IP Addresses)[https://support.microsoft.com/en-us/windows/change-tcp-ip-settings-bd0a07af-15f5-cd6a-363f-ca2b6f391ace#WindowsVersion=Windows_10]
-- (Windows Firewall Rules)[https://www.howtogeek.com/112564/how-to-create-advanced-firewall-rules-in-the-windows-firewall/]
-- (Allow Inbound Ping Requests Through Windows Defender)[https://activedirectorypro.com/allow-ping-windows-firewall/]
+- [Where the Idea Came From](https://networkjourney.com/build-your-own-network-lab-a-step-by-step-guide/)
+- [Private IP Address Ranges](https://ipcisco.com/lesson/private-ip-address-ranges/)
+- [A Refresher on Private IP Addresses](https://www.geeksforgeeks.org/private-ip-addresses-in-networking/)
+- [Subnetting Refrehser](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
+- [Ubuntu Network Configuration Issue](https://askubuntu.com/questions/1188147/installation-of-server-does-not-accept-subnet-cidr)
+- [Modifying Windows IP Addresses](https://support.microsoft.com/en-us/windows/change-tcp-ip-settings-bd0a07af-15f5-cd6a-363f-ca2b6f391ace#WindowsVersion=Windows_10)
+- [Windows Firewall Rules](https://www.howtogeek.com/112564/how-to-create-advanced-firewall-rules-in-the-windows-firewall/)
+- [Allow Inbound Ping Requests Through Windows Defender](https://activedirectorypro.com/allow-ping-windows-firewall/)
 
