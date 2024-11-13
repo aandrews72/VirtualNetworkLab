@@ -35,7 +35,7 @@ I ran ```ipconfig``` on my Windows VM and noticed that it was not on the same su
 
 Now that Windows had the desired IP and subnet, I ran ```ping``` on my Windows machine to send packets my Ubuntu VM, and the output confirmed [I had successfully sent and received the 32 bytes with 0% Loss.](imgs/Windows-ipconfig-and-ping-to-ubuntu.png) 
 
-I then attempted to ```ping``` from Ubuntu to Windows. However, the packets were not received by the Windows VM, resulting in a situation where Windows could successfully ```ping``` Ubuntu, but Ubuntu could not ```ping``` Windows. After some research, I found that by default, Windows Firewall does not allow inbound echo requests. [I was able to find out how to modify the Firewall rules to enable inbound echo requests on my Windows VM](Windows-firewall-rules.png), and afterward, [I could successfully ```ping``` Windows from my Ubuntu VM.](imgs/Ubuntu-ping-to-Windows.png)
+I then attempted to ```ping``` from Ubuntu to Windows. However, the packets were not received by the Windows VM, resulting in a situation where Windows could successfully ```ping``` Ubuntu, but Ubuntu could not ```ping``` Windows. After some research, I found that by default, Windows Firewall does not allow inbound echo requests. [I was able to find out how to modify the Firewall rules to enable inbound echo requests on my Windows VM](imgs/Windows-firewall-rules.png), and afterward, [I could successfully ```ping``` Windows from my Ubuntu VM.](imgs/Ubuntu-ping-to-Windows.png)
 
 ## What I Learned
 
