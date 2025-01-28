@@ -4,7 +4,7 @@
 
 The purpose of this project was to provide hands-on experience with network configuration, troubleshooting, and virtual machine (VM) management. The goal was to develop skills relevant to the IT field by setting up and managing an isolated network for Windows and Linux virtual machines.
 
-This project simualtes tasks including: 
+This project simulates tasks including: 
 - Configuring and managing network connectivity between multiple systems.
 - Setting up and troubleshooting network services.
 - Diagnosing connectivity issues, such as firewall restrictions and any network configuration errors.
